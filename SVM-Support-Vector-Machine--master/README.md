@@ -4,3 +4,5 @@
 2) Impo. : https://www.youtube.com/watch?v=efR1C6CvhmE
 
 3) Most Impo: SVM kernal explanation : https://www.youtube.com/watch?v=Toet3EiSFcM
+
+[Convert low dimentions to high dimentions]
