@@ -1,9 +1,8 @@
 # Regularization(Ridge and Lasso Regression):
 
-https://analyticsindiamag.com/regularization-in-machine-learning-a-detailed-guide/
-https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/
-
-https://afteracademy.com/blog/what-is-regularization-in-machine-learning
+ - https://analyticsindiamag.com/regularization-in-machine-learning-a-detailed-guide/
+ - https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/
+ - https://afteracademy.com/blog/what-is-regularization-in-machine-learning
 
 
 Must :
