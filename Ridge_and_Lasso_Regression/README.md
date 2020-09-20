@@ -7,5 +7,7 @@
 
 Must :
 Ridge(Statquest) : https://www.youtube.com/watch?v=Q81RR3yKn30
+
 Lasso(Statquest) : https://www.youtube.com/watch?v=NGf0voTMlcs
+
 https://www.youtube.com/watch?v=Xm2C_gTAl8c
